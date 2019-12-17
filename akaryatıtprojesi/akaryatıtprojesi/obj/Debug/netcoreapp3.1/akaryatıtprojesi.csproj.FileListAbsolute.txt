@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\akaryatıtprojesi\akaryatıtprojesi\bin\Debug\netcoreapp3.1\akaryatıtprojesi.exe
+C:\Users\asus\source\repos\akaryatıtprojesi\akaryatıtprojesi\bin\Debug\netcoreapp3.1\akaryatıtprojesi.deps.json
+C:\Users\asus\source\repos\akaryatıtprojesi\akaryatıtprojesi\bin\Debug\netcoreapp3.1\akaryatıtprojesi.runtimeconfig.json
+C:\Users\asus\source\repos\akaryatıtprojesi\akaryatıtprojesi\bin\Debug\netcoreapp3.1\akaryatıtprojesi.runtimeconfig.dev.json
+C:\Users\asus\source\repos\akaryatıtprojesi\akaryatıtprojesi\bin\Debug\netcoreapp3.1\akaryatıtprojesi.dll
+C:\Users\asus\source\repos\akaryatıtprojesi\akaryatıtprojesi\bin\Debug\netcoreapp3.1\akaryatıtprojesi.pdb
+C:\Users\asus\source\repos\akaryatıtprojesi\akaryatıtprojesi\obj\Debug\netcoreapp3.1\akaryatıtprojesi.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\akaryatıtprojesi\akaryatıtprojesi\obj\Debug\netcoreapp3.1\akaryatıtprojesi.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\akaryatıtprojesi\akaryatıtprojesi\obj\Debug\netcoreapp3.1\akaryatıtprojesi.AssemblyInfo.cs
+C:\Users\asus\source\repos\akaryatıtprojesi\akaryatıtprojesi\obj\Debug\netcoreapp3.1\akaryatıtprojesi.dll
+C:\Users\asus\source\repos\akaryatıtprojesi\akaryatıtprojesi\obj\Debug\netcoreapp3.1\akaryatıtprojesi.pdb
